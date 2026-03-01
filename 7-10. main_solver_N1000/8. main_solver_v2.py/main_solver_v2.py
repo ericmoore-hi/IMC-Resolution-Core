@@ -262,4 +262,5 @@ if __name__ == "__main__":
     output_filename = f"Complexity_Proof_{instance_name}.png"
     plt.savefig(output_filename, dpi=300)
     print(f"\n[COMPLETED] Analysis results saved to {output_filename}")
+
     plt.show()
