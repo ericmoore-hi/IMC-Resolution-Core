@@ -17,8 +17,8 @@ Author: Eric Moore (orcid.org/0009-0002-1826-0815)
 Project: Inertial Manifold Computing (IMC)
 -------------------------------------------------------------------------------------------------
 This code is part of the research manuscript:
-"Polynomial-Time 3-SAT Resolution via Inertial Manifold Computing and
-its Precise Mapping to Turing Complexity within the BSS Framework"
+"Deterministic 3-SAT Resolution via Continuous Physical Dynamics in Inertial Manifold 
+Computing and its Empirical Robustness to Finite Precision Limits"
 -------------------------------------------------------------------------------------------------
 LICENSE: For academic and non-commercial research use only.
 Commercial use or redistribution prohibited without written permission.
