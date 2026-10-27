@@ -1,9 +1,6 @@
 # IMC-Resolution-Core
 Polynomial-time 3-SAT resolution via Inertial Manifold Computing (IMC). Includes precise mapping to Turing complexity and 8-bit quantization proofs within the BSS framework.
 
-**Project Status Update (May 2026)**
-The theoretical framework of Inertial Manifold Computing (IMC) has been fully established, paving the way for empirical validation. The research focus has now shifted toward the development of a discrete-component analog prototype, with completion expected within approximately 12 months. Upon obtaining experimental results, the empirical data will be integrated into this manuscript for subsequent peer review.
-
 ## License and Usage Policy
 
 **Academic Use Only**
